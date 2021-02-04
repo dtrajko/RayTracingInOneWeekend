@@ -2,6 +2,7 @@
 //
 
 #include "color.h"
+#include "ray.h"
 #include "vec3.h"
 
 #include <iostream>
